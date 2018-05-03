@@ -63,8 +63,7 @@ But there are some places still need to be improved:
 3.The 'call C', you can use the converted c code directly, but if you add some statements after the 'call C' statements,
 the printed c code might have some problems . 
 
-
-
+4. There may be some issues in the strings variables conversion in python and c.
 
 
 
