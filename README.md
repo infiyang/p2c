@@ -51,9 +51,7 @@ Most program that executes sequentially, such as the arithmetic code, loop code,
 
 But there are some places still need to be improved:
 
-
 1. The 'for' statement, it may have the possibility to have difference within the runing results of python code and converted code.
-
 
 
 2. The 'call python', you can add some codes like 'print' statement after them, and mostly they can be converted into C with usable right format.
