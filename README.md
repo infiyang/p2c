@@ -4,9 +4,9 @@ Introduced by zicong (Fitz) Yang
 
 
 ///
-This program provides a tool p2c to achieve the format conversion within python and C.
-It is opera under Python 3.0 and the converted C can be ran in the C (windows system).
-To use the tools, just need to open your files via the statement 'open' provided in the documents 'run' before executing.
+This program provides a tool 'p2c' to achieve the format conversion within python and C.
+It is opera under Python 3.0 and the converted C can be ran under windows system.
+To use the tools, you need to add your files names via the statement 'open' provided in the file 'run.py' before executing, and ensure they are within the same documents if possible.
 
 
 ///
@@ -32,7 +32,7 @@ There are also several test code for the test use:
 
 'testc.py' is the typical method  to call the c in python
 	
-(1.ctypes and os module in this program is the standard module of python, if you want to run the call C function here, you need those two modules
+(1.ctypes and os module in this program is the standard module of python, if you want to run the 'call' C function here, you need to download those two official modules online before execution.
 	 
 2.'.dll' file stands for the compiled file of C and can be compiled from C by GCC compiler to help us calling C.
 	
