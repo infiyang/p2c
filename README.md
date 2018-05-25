@@ -5,7 +5,8 @@ Introduced by zicong (Fitz) Yang
 
 ///
 This program provides a tool p2c to achieve the format conversion within python and C.
-
+It is opera under Python 3.0 and the converted C can be ran in the C (windows system).
+To use the tools, just need to open your files via the statement 'open' provided in the documents 'run' before executing.
 
 
 ///
